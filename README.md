@@ -1,4 +1,4 @@
-## Bio
+##
 <p width="250px">
 I'm a self-motivated, creative, and resourceful Full Stack Web Developer who is proficient in JavaScript, Python, React, Angular, Node, Express and experienced with REST APIs. I  love working with collaborative teams that fuels my love for building interactive experiences and problem solving. 
   
@@ -21,7 +21,7 @@ I also used to work at MPC New York as a Asset Supervisor, taught as an Adjunct 
   <code><img height="20" src="https://raw.githubusercontent.com/AndresMWeber/AndresMWeber/master/circleci.png"></code>
 </div>
 
-## Stats
+##
 <div align='center'>
   <a href="https://github.com/andresmweber">
     <img alt="gh profile views badge" align='center' src="https://komarev.com/ghpvc/?username=andresmweber&style=flat-square&color=yellowgreen" />
@@ -35,7 +35,7 @@ I also used to work at MPC New York as a Asset Supervisor, taught as an Adjunct 
   </a>
 </div>
 
-## Connect
+##
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andresweber/">
