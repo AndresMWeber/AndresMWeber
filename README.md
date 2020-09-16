@@ -1,10 +1,3 @@
-<h1 align='center'></h1>
-
-## 📝 Table of Contents
-- [Bio](#bio)
-- [Stats](#stats)
-- [Social Media](#socialMedia)
-
 ## Bio
 <p align='center'>
 I'm a self-motivated, creative, and resourceful Full Stack Web Developer who is proficient in JavaScript, Python, React, Angular, Node, Express and experienced with REST APIs. I  love working with collaborative teams that fuels my love for building interactive experiences and problem solving. 
