@@ -23,10 +23,10 @@ I also used to work at MPC New York as a Asset Supervisor, taught as an Adjunct 
 
 ##
 <div align='center'>
-  <a href="https://github.com/andresmweber">
-    <img alt="gh profile views badge" align='center' src="https://komarev.com/ghpvc/?username=andresmweber&style=flat-square&color=yellowgreen" />
+  <a href="https://github.com/andresmweber" target="_blank">
+    <img alt="gh profile views badge" src="https://komarev.com/ghpvc/?username=andresmweber&style=flat-square&color=yellowgreen" />
   </a>
-  <a href="https://github.com/alwinw/alwinw" target="_blank">
+  <a href="https://github.com/andresmweber/andresmweber" target="_blank">
     <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/andresmweber/andresmweber?label=Profile%20Updated&style=flat-square" />
   </a>
   <br>
