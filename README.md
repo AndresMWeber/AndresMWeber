@@ -31,7 +31,7 @@ I also used to work at MPC New York as a Asset Supervisor, taught as an Adjunct 
     <img alt="gh stats badge" height="150px" src="https://github-readme-stats.vercel.app/api?username=andresmweber&count_private=true&show_icons=true&theme=dracula" />
   </a>
   <a href="https://github.com/andresmweber">
-    <img alt="gh languages count badge" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresmweber&langs_count=8&layout=compact&theme=dracula" />
+    <img alt="gh languages count badge" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresmweber&langs_count=8&layout=compact&theme=dracula&hide=c,c%2B%2B,jupyter%20notebook,mathematica" />
   </a>
 </div>
 
