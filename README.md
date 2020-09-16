@@ -12,18 +12,18 @@ I'm a self-motivated, creative, and resourceful Full Stack Web Developer who is 
 
 <div align='center'>
   <h4>Coding Skills:</h4>
-  <code><img height="20" src="./javascript.png"></code>
-  <code><img height="20" src="./typescript.png"></code>
-  <code><img height="20" src="./nodejs.png"></code>
-  <code><img height="20" src="./python.png"></code>
-  <code><img height="20" src="./react.png"></code>
-  <code><img height="20" src="./angular.png"></code>
-  <code><img height="20" src="./aws.png"></code>
-  <code><img height="20" src="./azure.png"></code>
-  <code><img height="20" src="./express.png"></code>
-  <code><img height="20" src="./docker.png"></code>
-  <code><img height="20" src="./mongo.png"></code>
-  <code><img height="20" src="./circleci.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/AndresMWeber/AndresMWeber/master/javascript.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/AndresMWeber/AndresMWeber/master/typescript.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/AndresMWeber/AndresMWeber/master/nodejs.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/AndresMWeber/AndresMWeber/master/python.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/AndresMWeber/AndresMWeber/master/react.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/AndresMWeber/AndresMWeber/master/angular.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/AndresMWeber/AndresMWeber/master/aws.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/AndresMWeber/AndresMWeber/master/azure.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/AndresMWeber/AndresMWeber/master/express.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/AndresMWeber/AndresMWeber/master/docker.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/AndresMWeber/AndresMWeber/master/mongo.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/AndresMWeber/AndresMWeber/master/circleci.png"></code>
 </div>
 
 ## Stats
@@ -44,15 +44,15 @@ I'm a self-motivated, creative, and resourceful Full Stack Web Developer who is 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andresweber/">
-    <img alt="linkedin profile link" height="50px" src="./linkedin.png" />
+    <img alt="linkedin profile link" height="50px" src="https://raw.githubusercontent.com/AndresMWeber/AndresMWeber/master/linkedin.png" />
   </a>
 
   <a href="www.vimeo.com/andresmweber">
-    <img alt="vimeo profile link" height="50px" src="./vimeo.png" />
+    <img alt="vimeo profile link" height="50px" src="https://raw.githubusercontent.com/AndresMWeber/AndresMWeber/master/vimeo.png" />
   </a>
 
   <a href="www.artstation.com/daemonecles">
-    <img alt="artstation profile link" height="50px" src="./artstation.png" />
+    <img alt="artstation profile link" height="50px" src="https://raw.githubusercontent.com/AndresMWeber/AndresMWeber/master/artstation.png" />
   </a>
 </div>
 
