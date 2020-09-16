@@ -35,7 +35,7 @@ I also used to work at MPC New York as a Asset Supervisor, taught as an Adjunct 
   </a>
 </div>
 
-## Social Media
+## Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andresweber/">
