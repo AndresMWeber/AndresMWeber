@@ -1,8 +1,8 @@
 ##
 <p width="250px">
-I'm a self-motivated, creative, and resourceful Full Stack Web Developer who is proficient in JavaScript, Python, React, Angular, Node, Express and experienced with REST APIs. I  love working with collaborative teams that fuels my love for building interactive experiences and problem solving. 
+I'm a self-motivated, creative, and resourceful Full Stack Web Developer who is proficient in JavaScript, Python, React, Angular, Node, Express and experienced with REST APIs. I  love working with collaborative teams because it fuels my love for building interactive experiences and problem solving. 
   
-I also used to work at MPC New York as a Asset Supervisor, taught as an Adjunct Professor at NYU, contributed to Motionographer, developed game prototypes at Disney Interactive and much more.
+I also used to work at MPC New York as an Asset Supervisor, taught as an Adjunct Professor at NYU, contributed to Motionographer, developed game prototypes at Disney Interactive and much more.
 </p>
 
 <div align='center'>
